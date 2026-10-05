@@ -145,7 +145,7 @@ jobs:
           repo_name = os.environ.get("GITHUB_REPOSITORY", "desconocido")
 
           if SUPABASE_URL and SUPABASE_KEY and "http" in SUPABASE_URL:
-              print("\n🛡️ Conectando con Supabase para validación anti-plagio de Git...")
+              print("\n🛡️ Conectando con SB para validación ap de Git...")
               try:
                   # Generar firma basada en la secuencia de hashes de los commits
                   commit_hashes = subprocess.check_output(["git", "log", "--format=%H"], text=True).strip().replace("\n", "")
