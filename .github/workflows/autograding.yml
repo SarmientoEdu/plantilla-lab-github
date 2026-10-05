@@ -25,8 +25,8 @@ jobs:
           # =========================================================================
           # CONFIGURACIÓN DE SUPABASE (OPTATIVO)
           # =========================================================================
-          SUPABASE_URL = "https://tltjdnyigjpmhkmznkus.supabase.co"
-          SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRsdGpkbnlpZ2pwbWhrbXpua3VzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk1OTUzOTIsImV4cCI6MjA5NTE3MTM5Mn0.hUOi66t_Zqsj7mRupjzflUoeScF0Kk2BPjYOZ5If6Zg"
+          SUPABASE_URL = "https://ikusdplwwvcbxgvevkvw.supabase.co"
+          SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlrdXNkcGx3d3ZjYnhndmV2a3Z3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg5ODgyMjYsImV4cCI6MjEwNDU2NDIyNn0.TEA3ZOmZxv7zedc2hDZUaDoB0oGDVMXM2yh1M6D4YBc"
 
           print("🔍 Iniciando evaluacion de colaboracion Git/GitHub...\n")
 
