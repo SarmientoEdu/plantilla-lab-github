@@ -17,7 +17,7 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: 3. Ejecutar Evaluador de Colaboracion y Anti-Plagio
+      - name: 3. Ejecutar Evaluador de Colaboracion y AP
         run: |
           cat << 'EOF' > evaluate.py
           import os, sys, json, subprocess, hashlib, urllib.request, re
